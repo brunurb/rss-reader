@@ -1,16 +1,21 @@
 {
-  "feeds": [
-    "https://hnrss.org/frontpage?points=10&comments=5&count=35"
+  "make": [
+    "https://hackaday.com/feed/",
+    "https://makezine.com/feed/"
   ],
   "blogs": [
-    "https://xeiaso.net/blog.rss",
-    "https://drewdevault.com/blog/index.xml",
-    "https://danluu.com/atom.xml",
-    "https://kevinfiol.com/atom.xml",
-    "https://terrysfreegameoftheweek.com/feed/",
-    "https://fasterthanli.me/index.xml"
+    "https://www.wired.com/feed/rss",
+    "https://www.wired.co.uk/feed/rss",
+    "https://www.microsiervos.com/index.xml",
+    "https://www.theatlantic.com/feed/all/",
+    "http://feeds.arstechnica.com/arstechnica/index",
   ],
-  "reddit": [
-    "https://www.reddit.com/r/Games.rss"
+  "art": [
+    "http://feeds.kottke.org/main",
+    "https://www.openculture.com/feed/rss2",
+    "https://www.thingsmagazine.net/feed/",
+    "https://www.messynessychic.com/feed/",
+    "https://www.thisiscolossal.com/feed/"
+
   ]
 }
